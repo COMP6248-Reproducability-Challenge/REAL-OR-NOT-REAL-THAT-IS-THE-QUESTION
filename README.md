@@ -14,3 +14,7 @@ Xuelu Wang xw7n19 31458475;
 Siming Wu sw6a19 30832551
 
 FID measurement codes: [pytorch-fid](https://github.com/mseitzer/pytorch-fid)
+
+How to run this project:
+
+python3 train.py
