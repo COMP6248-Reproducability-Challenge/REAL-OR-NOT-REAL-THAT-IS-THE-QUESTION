@@ -17,4 +17,10 @@ FID measurement codes: [pytorch-fid](https://github.com/mseitzer/pytorch-fid)
 
 How to run this project:
 
+You need to download the dataset first: [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), [FFHQ](https://github.com/NVlabs/ffhq-dataset), [RAF-DB](http://www.whdeng.cn/raf/model1.html)
+
+Put the dataset at correct place, see README in dataset folder.
+
+Then,
+
 python3 train.py
